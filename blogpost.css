@@ -11,8 +11,6 @@ body {
         background-color: #FFFFFF;
         grid-row-gap: 40px;
         grid-column-gap: 00px;
-        grid-template-columns: 700px 50px 180px;
-        grid-template-rows: 100px auto auto auto auto;
         grid-template-areas:
         "header header header "
         "navigation navigation navigation"
